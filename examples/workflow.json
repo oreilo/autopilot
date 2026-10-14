@@ -1,0 +1,1 @@
+{"name":"Read Example Domain","description":"Read-only demo","start_url":"https://example.com","actions":[{"kind":"extract_structured","reason":"Collect page data"},{"kind":"finish","answer":"Extracted page content"}]}
